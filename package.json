@@ -1,0 +1,10 @@
+{
+  "name":"herbert",
+  "version":"0.0.1",
+  "description":"Herbert is a SPA",
+  "repository":"https://github.com/nikita-malyschkin/herbert",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "license":"MIT"
+}
